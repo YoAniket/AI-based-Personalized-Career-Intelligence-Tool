@@ -31,3 +31,6 @@ Careerintel provide answers to the exact questions. In essence, after reading th
 <img width="846" height="721" alt="image" src="https://github.com/user-attachments/assets/d44154d4-a541-4a5f-a27d-78f41f881bcd" />
 
 
+
+_**You can also download the sample Part 1 of the Report of one of the candidate 'Aarya Vajari' for reference
+_**__
