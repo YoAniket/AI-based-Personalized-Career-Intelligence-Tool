@@ -1,8 +1,8 @@
 **Every graduate asks questions like:**
-	• Which career will pay the most?
-	• Which skills are future-proof?
-	• Which industries are growing?
-  • What is the ROI of my degree?
+• Which career will pay the most?
+• Which skills are future-proof?
+• Which industries are growing?
+ • What is the ROI of my degree?
 
 Careerintel provide answers to the exact questions. In essence, after reading the Personalized CareerIntel Playbook, the fresher graduate can pin point - given who I am, where I am, and where the market is going — here is my smartest next move.
 
