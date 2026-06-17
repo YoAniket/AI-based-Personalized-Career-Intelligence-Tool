@@ -22,6 +22,15 @@ Careerintel provide answers to the exact questions. In essence, after reading th
 -> If Plan A fails - backup pathway section
 
 
+**Tools and Skills used:**
+* Prompt Engineering - Gen AI - Claude, ChatGPT 
+* Product Thinking and Product Design
+* Business Analysis -Requirement elicitation, BRD, Documentation, UAT, Process improvement, Jira
+* Marketing and Sales - Forms, landing page, reachout 
+* Market Research - Conducted surveys
+
+Total Candidates Helped: 14
+
 
 **Sample Playbook**
 
